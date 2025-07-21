@@ -1,0 +1,29 @@
+# Sensitive files (e.g., scan logs, packet captures)
+*.pcap
+*.log
+*.xml
+*.key
+*.pem
+*.env
+
+# Python-specific files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Sensitive data directories
+scans/
+logs/
+credentials/
