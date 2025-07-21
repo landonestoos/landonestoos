@@ -13,9 +13,6 @@ Folders:
 - **Wireshark**: Packet capture labs (optional).
 - **Metasploit**: Ethical hacking demos (optional).
 
-  About
-Each folder contains labs demonstrating practical skills in vulnerability management, including scanning, analysis, and automation. All data is anonymized to ensure ethical compliance.
-
 Skills Demonstrated
 - **Tools**: OpenVAS, Nessus Essentials, Qualys, Nmap, Wireshark, Metasploit
 - **Programming**: Python for automation and data parsing
